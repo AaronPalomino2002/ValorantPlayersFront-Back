@@ -1,0 +1,10 @@
+export { User } from './user.entity';
+export { Agent } from './agent.entity'
+export { BlackList } from './blacklist.entity';
+export { Map } from './map.entity';
+export { Match } from './match.entity';
+export { PlayerProfile } from './player-profile.entity';
+export { Player } from './player.entity';
+export { Stadistic } from './stadistic.entity';
+export { Team } from './team.entity';
+export { Weapon } from './weapon.entity';

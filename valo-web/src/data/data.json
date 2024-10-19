@@ -1,0 +1,22 @@
+[
+    {
+        "id_player": 1, 
+        "name": "PlayerOne", 
+        "tagline": "1234", 
+        "tier": "Diamond",
+        "rankedRating": 1500,
+        "wins": 100, 
+        "winRatio": "60%", 
+        "mostAgent": "Jett" 
+    },
+    { 
+        "id_player": 2, 
+        "name": "PlayerTwo", 
+        "tagline": "5678", 
+        "tier": "Platinum", 
+        "rankedRating": 1400, 
+        "wins": 90, 
+        "winRatio": "58%", 
+        "mostAgent": "Raze"
+    }
+]
